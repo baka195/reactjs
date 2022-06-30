@@ -1,0 +1,8 @@
+.x--code {
+    max-width: 40rem;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+.x--code--box:not(:last-child) {
+    margin-bottom: 1rem;
+}

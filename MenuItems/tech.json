@@ -1,0 +1,84 @@
+{
+    "tech":[
+        {
+            "id": 1,
+            "techname": "HTML",
+            "techtype" : "PROGRAMMING LANGUAGE"
+        },
+        {
+            "id": 2,
+            "techname": "CSS",
+            "techtype" : "PROGRAMMING LANGUAGE"
+        },
+        {
+            "id": 3,
+            "techname": "PHP",
+            "techtype" : "PROGRAMMING LANGUAGE"
+        },
+        {
+            "id": 4,
+            "techname": "JAVASCRIPT",
+            "techtype" : "PROGRAMMING LANGUAGE"
+        },
+        {
+            "id": 5,
+            "techname": "REACTJS",
+            "techtype" : "JS LIBRARY"
+        },
+        {
+            "id": 6,
+            "techname": "LARAVEL",
+            "techtype" : "PHP FRAMEWORK"
+        },
+        {
+            "id": 7,
+            "techname": "CODEIGNITER",
+            "techtype" : "MVC A."
+        },
+        {
+            "id": 8,
+            "techname": "JOOMLA",
+            "techtype" : "CMS"
+        },
+        {
+            "id": 9,
+            "techname": "MYSQL",
+            "techtype" : "DATABASE SYSTEM"
+        },
+        {
+            "id": 10,
+            "techname": "VIRTUEMART",
+            "techtype" : "E-COMMERCE SOLUTION"
+        },
+        {
+            "id": 11,
+            "techname": "HIKASHOP",
+            "techtype" : "E-COMMERCE SOLUTION"
+        },
+        {
+            "id": 12,
+            "techname": "TECHNICAL SEO",
+            "techtype" : "SERVICE"
+        },
+        {
+            "id": 13,
+            "techname": "G. MAPS API",
+            "techtype" : "SERVICE"
+        },
+        {
+            "id": 14,
+            "techname": "AJAX",
+            "techtype" : "SERVICE"
+        },
+        {
+            "id": 15,
+            "techname": "XML",
+            "techtype" : "MARKUP LANGUAGE"
+        },
+        {
+            "id": 16,
+            "techname": "JSON",
+            "techtype" : "FORMAT"
+        }
+    ]
+}

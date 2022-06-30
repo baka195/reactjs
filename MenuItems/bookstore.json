@@ -1,0 +1,197 @@
+{
+  "products": [
+
+    {
+      "id": 1,
+      "name": "goldenolympia.com",
+      "type": "B2C ESHOP",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#F3F5F6",
+      "vector": "./vector/olive.svg"
+    },
+    {
+      "id": 13,
+      "name": "the-realita.gr",
+      "type": "WEBSITE",
+      "tech": "LARAVEL",
+      "color_class": "#f9f9f9",
+      "vector": "./vector/bag.svg"
+    },
+    {
+      "id": 4,
+      "name": "poseidonmilos.gr",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#f9f9f9",
+      "vector": "./vector/fish.svg"
+    },
+    {
+      "id": 2,
+      "name": "ekmetzoglouautofit.gr",
+      "type": "WEBSITE",
+      "tech": "CODEIGNITER",
+      "color_class": "#fdfdfd",
+      "vector": "./vector/car.svg"
+    },
+    {
+      "id": 3,
+      "name": "marketquest.gr",
+      "type": "B2C ESHOP",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#F5F5F5",
+      "vector": "./vector/mq.svg"
+    },
+    {
+      "id": 5,
+      "name": "theatro-imeras.gr",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#f9f9f9",
+      "vector": "./vector/theatre.svg"
+    },
+    {
+      "id": 6,
+      "name": "asimikashop.gr",
+      "type": "B2C ESHOP",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#F5F5F5",
+      "vector": "./vector/ring.svg"
+    },
+    {
+      "id": 7,
+      "name": "vkcontractors.co.uk",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#fdfdfd",
+      "vector": "./vector/cons.svg"
+    },
+    {
+      "id": 8,
+      "name": "whitelinenstore.gr",
+      "type": "B2C ESHOP",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#F3F5F6",
+      "vector": "./vector/clothes.svg"
+    },
+    {
+      "id": 9,
+      "name": "kalyvasoptika.gr",
+      "type": "B2C ESHOP",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#F3F5F6",
+      "vector": "./vector/eye.svg"
+    },
+    {
+      "id": 10,
+      "name": "med-professionals.gr",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#fdfdfd",
+      "vector": "./vector/med.svg"
+    },
+    {
+      "id": 11,
+      "name": "cardioprolipsis.gr",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#F5F5F5",
+      "vector": "./vector/cardio.svg"
+    },
+    {
+      "id": 12,
+      "name": "2plus2club.com",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#f9f9f9",
+      "vector": "./vector/drink.svg"
+    },
+    {
+      "id": 15,
+      "name": "komvosnav.gr",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#fdfdfd",
+      "vector":  "./vector/boat.svg"
+    },
+    {
+      "id": 16,
+      "name": "annazora.gr",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#F3F5F6",
+      "vector": "./vector/teeth.svg"
+    },
+    {
+      "id": 17,
+      "name": "24pharmanet.gr",
+      "type": "B2C ESHOP",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#F3F5F6",
+      "vector": "./vector/pharma.svg"
+    },
+    {
+      "id": 18,
+      "name": "vianelk.gr",
+      "type": "B2B ESHOP",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#fdfdfd",
+      "vector": "./vector/elevator.svg"
+    },
+    {
+      "id": 19,
+      "name": "gouletaslift.gr",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#fdfdfd",
+      "vector": "./vector/elevator.svg"
+    },
+    {
+      "id": 20,
+      "name": "param.gr",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#F5F5F5",
+      "vector": "./vector/param.svg"
+    },
+    {
+      "id": 21,
+      "name": "autotabas.gr",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#f9f9f9",
+      "vector": "./vector/autocar.svg"
+    },
+    {
+      "id": 22,
+      "name": "coralccpc.com",
+      "type": "WEBSITE",
+      "tech": "JOOMLA 4",
+      "color_class": "#f9f9f9",
+      "vector": "./vector/boat.svg"
+    },
+    {
+      "id": 23,
+      "name": "diathlon.gr",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#F5F5F5",
+      "vector": "./vector/gym.svg"
+    },
+    {
+      "id": 24,
+      "name": "diablery.gr",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#fdfdfd",
+      "vector": "./vector/guitar.svg"
+    },
+    {
+      "id": 25,
+      "name": "profan.gr",
+      "type": "WEBSITE",
+      "tech": "JOOMLA CUSTOM TEMPLATE",
+      "color_class": "#F5F5F5",
+      "vector": "./vector/gear.svg"
+    }
+  ]
+}
